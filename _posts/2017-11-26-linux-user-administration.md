@@ -2,11 +2,11 @@
 layout: post
 title:  "linux user administration"
 date:   2017-11-26
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
+keywords: "linux"
 categories: [HTML]
 tags: [linux]
 icon: icon-html
-author: safariding
+author: ytDing
 post_id: 269
 comment_status: open
 status: publish
