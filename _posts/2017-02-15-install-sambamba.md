@@ -1,14 +1,16 @@
-title: Install Sambamba
-link: https://safariding.wordpress.com/2017/02/15/install-sambamba/
-author: safariding
-description: 
+---
+layout: post
+title:  "Install Sambamba"
+date:   2017-02-15
+keywords: "linux,bioinfo,software"
+categories: [BIOINFO]
+tags: [linux,bioinfo,software]
+icon: icon-html
+author: ytDing
 post_id: 146
-created: 2017/02/15 17:48:28
-created_gmt: 2017/02/15 17:48:28
 comment_status: open
-post_name: install-sambamba
 status: publish
-post_type: post
+---
 
 # Install Sambamba
 
