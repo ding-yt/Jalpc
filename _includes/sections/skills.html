@@ -44,12 +44,7 @@
             options: {
                 scale: {
                     responsive: true,
-                    //ticks: {min: 0, max: 100},
-                    ticks: {
-                        beginAtZero: true,
-                        userCallback: function(value, index, values) {
-                        return notations[value];
-                    }
+                    ticks: {min: 0, max: 100},
                     lineArc: false,
                     pointLabels: {fontSize: 14},
                 },
