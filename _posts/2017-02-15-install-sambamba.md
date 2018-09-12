@@ -2,15 +2,13 @@
 layout: post
 title:  "Install Sambamba"
 date:   2017-02-15
+desc: "Install Sambamba"
 keywords: "linux,bioinfo,software"
-categories: [BIOINFO]
+categories: [Bioinfo]
 tags: [linux,bioinfo,software]
 icon: icon-html
-author: ytDing
-post_id: 146
-comment_status: open
-status: publish
 ---
+
 
 # Install Sambamba
 
