@@ -3,7 +3,7 @@ layout: post
 title:  "linux user administration"
 date:   2017-11-26
 keywords: "linux"
-categories: [LINUX]
+categories: [Linux]
 tags: [linux]
 icon: icon-html
 author: ytDing
