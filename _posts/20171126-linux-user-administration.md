@@ -1,14 +1,18 @@
-title: linux user administration
-link: https://safariding.wordpress.com/2017/11/26/linux-user-administration/
+---
+layout: post
+title:  "linux user administration"
+date:   2017-11-26
+keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
+categories: [HTML]
+tags: [linux]
+icon: icon-html
 author: safariding
-description: 
 post_id: 269
-created: 2017/11/26 20:01:43
-created_gmt: 2017/11/26 20:01:43
 comment_status: open
-post_name: linux-user-administration
 status: publish
-post_type: post
+---
+
+
 
 # linux user administration
 
