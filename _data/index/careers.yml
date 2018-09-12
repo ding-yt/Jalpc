@@ -27,3 +27,17 @@
     detail: Full Stack Developer
     i18n: company_b_job
   icon: fa-plus-square
+  
+- name:
+    detail: Graduation
+    i18n: college
+  desc:
+    detail: At May 2018,I graduated with a PhD in Biology from Duke University
+    i18n: college_des
+  date:
+    detail: May. 2018
+    i18n: college_date
+  job:
+    detail: Student
+    i18n: college_job
+  icon: fa-book
